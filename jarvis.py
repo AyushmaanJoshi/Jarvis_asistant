@@ -5,12 +5,6 @@ Back-up Code
 
 '''
 '''
-My api key
-
-newsapi = "f0faf33211054f06a0c38cf0bb61a624"
-weather_api_key = "dad1b1dcdc25e976c53ced00e8faedec"
-
-'''
 
 
 # import speech_recognition as sr
