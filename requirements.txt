@@ -1,0 +1,9 @@
+Flask
+pyttsx3
+SpeechRecognition
+requests
+google-api-python-client
+pyaudio
+azure-core
+azure-ai-inference
+musicLibrary @ file:///absolute/path/to/your/musicLibrary  # Replace if it's your own module
