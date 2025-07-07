@@ -26,8 +26,8 @@ engine = pyttsx3.init()
 engine.setProperty('rate', 190)  # Set speaking speed (lower = slower)
 
 # Your API keys
-newsapi = "f0faf33211054f06a0c38cf0bb61a624"
-weather_api_key = "dad1b1dcdc25e976c53ced00e8faedec"
+newsapi = "Your Api Key"
+weather_api_key = "Your Api Key"
 
 # -------------------- HELPER FUNCTIONS --------------------
 
