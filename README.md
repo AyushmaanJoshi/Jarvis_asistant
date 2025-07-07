@@ -122,7 +122,7 @@ Jarvis_asistant/
 **Ayushmaan Joshi**  
 Third-year B.Tech CSE student at LPU | Python + AI enthusiast
 
-📫 Connect on [LinkedIn](https://www.linkedin.com/in/ayushmaan-joshi)
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/ayushmaanjoshi25802/)
 
 ---
 
